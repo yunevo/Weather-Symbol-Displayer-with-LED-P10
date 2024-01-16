@@ -11,4 +11,13 @@ To change the pin connection between ESP32 and other components please change th
 * LED P10 (OE, A, B, CLK, SCKL, DS)
 * 2 slide switches (SW0, SW1) 
 * Relay (RELAY)
- 
+
+# Static images captured from the running gifs 
+![2024-01-16_15h40_17](https://github.com/yunevo/Weather-Symbol-Displayer-with-LED-P10/assets/156734673/17106d5a-24fc-4046-afc9-1f9df75c3822)
+
+![2024-01-16_15h40_05](https://github.com/yunevo/Weather-Symbol-Displayer-with-LED-P10/assets/156734673/c68f6041-6b29-4ffa-973a-b24191147cc4)
+
+![2024-01-16_15h40_29](https://github.com/yunevo/Weather-Symbol-Displayer-with-LED-P10/assets/156734673/41c453a7-de48-4cc7-8307-0b9bc0e8bde2)
+
+![2024-01-16_15h41_05](https://github.com/yunevo/Weather-Symbol-Displayer-with-LED-P10/assets/156734673/745827f4-3630-4cf3-b9af-47dd0af03fbe)
+
