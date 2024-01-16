@@ -19,5 +19,6 @@ To change the pin connection between ESP32 and other components please change th
 
 ![2024-01-16_15h40_29](https://github.com/yunevo/Weather-Symbol-Displayer-with-LED-P10/assets/156734673/41c453a7-de48-4cc7-8307-0b9bc0e8bde2)
 
-![2024-01-16_15h41_05](https://github.com/yunevo/Weather-Symbol-Displayer-with-LED-P10/assets/156734673/745827f4-3630-4cf3-b9af-47dd0af03fbe)
+![2024-01-16_15h41_05](https://github.com/yunevo/Weather-Symbol-Displayer-with-LED-P10/assets/156734673/5c72c5c2-a998-4861-b528-7796b8ed092e)
+
 
